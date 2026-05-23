@@ -1,0 +1,117 @@
+{
+  "requests": [
+    {
+      "id": "req-101",
+      "facilityId": "hotel-bejaia-azur",
+      "guest": "Yacine Merabet",
+      "type": "booking",
+      "date": "2026-06-20",
+      "status": "new",
+      "amount": 37000
+    },
+    {
+      "id": "req-102",
+      "facilityId": "activity-annaba-diving",
+      "guest": "Sara Haddad",
+      "type": "booking",
+      "date": "2026-06-24",
+      "status": "approved",
+      "amount": 13000
+    },
+    {
+      "id": "req-103",
+      "facilityId": "restaurant-oran-port-bleu",
+      "guest": "Meriem Kaci",
+      "type": "support",
+      "date": "2026-06-18",
+      "status": "waiting",
+      "amount": 7200
+    },
+    {
+      "id": "req-104",
+      "facilityId": "activity-oran-jetski",
+      "guest": "Anis Saidi",
+      "type": "booking",
+      "date": "2026-07-02",
+      "status": "new",
+      "amount": 17000
+    },
+    {
+      "id": "req-105",
+      "facilityId": "activity-tipaza-quad",
+      "guest": "Lina Boussouf",
+      "type": "booking",
+      "date": "2026-07-04",
+      "status": "approved",
+      "amount": 21000
+    },
+    {
+      "id": "req-106",
+      "facilityId": "activity-el-tarf-ecurie",
+      "guest": "Walid Hamdi",
+      "type": "booking",
+      "date": "2026-07-08",
+      "status": "new",
+      "amount": 11200
+    },
+    {
+      "id": "req-107",
+      "facilityId": "dortoir-alger-sidi-fredj",
+      "guest": "Nour Association",
+      "type": "booking",
+      "date": "2026-07-11",
+      "status": "waiting",
+      "amount": 31200
+    }
+  ],
+  "offers": [
+    {
+      "id": "offer-1",
+      "title": "Family sea-view suite weekend",
+      "category": "sleep",
+      "wilaya": "Bejaia",
+      "price": 24000,
+      "status": "published"
+    },
+    {
+      "id": "offer-2",
+      "title": "Sunset seafood table for four",
+      "category": "food",
+      "wilaya": "Oran",
+      "price": 9800,
+      "status": "draft"
+    },
+    {
+      "id": "offer-3",
+      "title": "Guided kayak morning group",
+      "category": "activity",
+      "wilaya": "Bejaia",
+      "price": 4200,
+      "status": "needs_review"
+    },
+    {
+      "id": "offer-4",
+      "title": "Jet ski 30 minute beach session",
+      "category": "activity",
+      "wilaya": "Oran",
+      "price": 8500,
+      "status": "published"
+    },
+    {
+      "id": "offer-5",
+      "title": "Quad trail with guide and photos",
+      "category": "activity",
+      "wilaya": "Tipaza",
+      "price": 7000,
+      "status": "published"
+    },
+    {
+      "id": "offer-6",
+      "title": "Horse ride at sunset",
+      "category": "activity",
+      "wilaya": "El Tarf",
+      "price": 5600,
+      "status": "draft"
+    }
+  ]
+}

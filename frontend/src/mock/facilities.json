@@ -1,0 +1,401 @@
+[
+  {
+    "id": "hotel-bejaia-azur",
+    "category": "sleep",
+    "providerType": "Hotel",
+    "name": "Azur Bay Hotel",
+    "wilaya": "Bejaia",
+    "city": "Saket",
+    "rating": 4.8,
+    "reviews": 842,
+    "price": 18500,
+    "host": "Samir Hospitality Group",
+    "cover": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Sea view", "Breakfast", "Pool", "Family rooms"],
+    "amenities": ["Airport transfer", "Free Wi-Fi", "Parking", "Restaurant"],
+    "description": "A polished coastal hotel for families, couples, and business travelers looking for a premium Bejaia stay close to the marina."
+  },
+  {
+    "id": "dortoir-alger-sidi-fredj",
+    "category": "sleep",
+    "providerType": "Dortoir",
+    "name": "Dortoir Nomade Sidi Fredj",
+    "wilaya": "Alger",
+    "city": "Sidi Fredj",
+    "rating": 4.4,
+    "reviews": 316,
+    "price": 5200,
+    "host": "Cite Voyage Providers",
+    "cover": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Budget", "Students", "Shared kitchen", "Near beach"],
+    "amenities": ["Lockers", "Laundry", "Kitchen", "Study corner"],
+    "description": "A clean and social dormitory offer for students, backpackers, and local explorers who want affordable access to Algiers beaches."
+  },
+  {
+    "id": "cite-univ-tipaza",
+    "category": "sleep",
+    "providerType": "Cite universitaire",
+    "name": "Residence Etudiante Chenoua",
+    "wilaya": "Tipaza",
+    "city": "Chenoua",
+    "rating": 4.2,
+    "reviews": 188,
+    "price": 3900,
+    "host": "Campus Stay DZ",
+    "cover": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1560185008-b033106af5c3?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Student", "Secure", "Monthly stays"],
+    "amenities": ["Security", "Transport", "Cafeteria", "Shared rooms"],
+    "description": "A coastal student residence profile for supervised group stays, associations, and affordable academic travel."
+  },
+  {
+    "id": "restaurant-kabyle-marine",
+    "category": "food",
+    "providerType": "Restaurant",
+    "name": "Table Kabyle Marine",
+    "wilaya": "Tizi Ouzou",
+    "city": "Azeffoun",
+    "rating": 4.7,
+    "reviews": 529,
+    "price": 2800,
+    "host": "Chef Lynda",
+    "cover": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544148103-0773bf10d330?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Seafood", "Local dishes", "Terrace", "Group tables"],
+    "amenities": ["Outdoor seating", "Kids menu", "Fresh fish", "Reservations"],
+    "description": "A coastal cuisine profile for group lunches and cultural dinners with fresh seafood and Kabyle specialties."
+  },
+  {
+    "id": "restaurant-oran-port-bleu",
+    "category": "food",
+    "providerType": "Restaurant",
+    "name": "Port Bleu Grill",
+    "wilaya": "Oran",
+    "city": "Ain El Turk",
+    "rating": 4.5,
+    "reviews": 431,
+    "price": 3600,
+    "host": "Oran Food Collective",
+    "cover": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1481833761820-0509d3217039?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1576867757603-05b134ebc379?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Grill", "Family", "Harbor", "Sunset"],
+    "amenities": ["Card payment", "Private salon", "Terrace", "Live music"],
+    "description": "A lively Oran restaurant profile for grilled fish, sunset tables, and quick reservation flows from the offer detail page."
+  },
+  {
+    "id": "activity-bejaia-kayak",
+    "category": "activity",
+    "providerType": "Entertainment facility",
+    "name": "Kayak Cap Carbon",
+    "wilaya": "Bejaia",
+    "city": "Cap Carbon",
+    "rating": 4.9,
+    "reviews": 678,
+    "price": 4200,
+    "host": "Nassim Outdoor",
+    "cover": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Kayak", "Guide", "Adventure", "Photos"],
+    "amenities": ["Life jackets", "Guide", "Photos", "Insurance"],
+    "description": "A guided sea kayaking profile with safety briefing, photo stops, and instant booking for adventurous travelers."
+  },
+  {
+    "id": "entertainer-mostaganem-rai",
+    "category": "activity",
+    "providerType": "Entertainer",
+    "name": "Soiree Rai & Marina",
+    "wilaya": "Mostaganem",
+    "city": "Salamandre",
+    "rating": 4.6,
+    "reviews": 274,
+    "price": 3000,
+    "host": "Maya Events",
+    "cover": "https://images.unsplash.com/photo-1505236858219-8359eb29e329?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Live music", "Nightlife", "Groups", "Events"],
+    "amenities": ["Stage", "Sound system", "Family slots", "Private shows"],
+    "description": "A performer profile for music evenings, marina shows, family events, and coastal entertainment programs."
+  },
+  {
+    "id": "activity-annaba-diving",
+    "category": "activity",
+    "providerType": "Entertainment facility",
+    "name": "Annaba Blue Diving",
+    "wilaya": "Annaba",
+    "city": "Ras El Hamra",
+    "rating": 4.8,
+    "reviews": 391,
+    "price": 6500,
+    "host": "Blue Coast Club",
+    "cover": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1682687220063-4742bd7fd538?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Diving", "Training", "Equipment", "Sea trip"],
+    "amenities": ["Certified coach", "Equipment", "Boat", "Beginner friendly"],
+    "description": "A diving facility profile for beginner sessions, equipment rental, sea trips, and adventurous coastal discovery."
+  },
+  {
+    "id": "activity-oran-jetski",
+    "category": "activity",
+    "providerType": "Jet ski rental",
+    "name": "Ain El Turk Jet Ski Club",
+    "wilaya": "Oran",
+    "city": "Ain El Turk",
+    "rating": 4.7,
+    "reviews": 244,
+    "price": 8500,
+    "host": "Riad Jet Ski Rental",
+    "cover": "https://images.unsplash.com/photo-1563186627-0d185db94083?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Jet ski", "Rental", "Beach", "Adrenaline"],
+    "amenities": ["Safety briefing", "Life jackets", "Instructor", "Timed sessions"],
+    "description": "A jet ski rental profile for fast coastal rides, supervised sessions, and group beach activities in Oran."
+  },
+  {
+    "id": "activity-tipaza-quad",
+    "category": "activity",
+    "providerType": "Quad rental",
+    "name": "Chenoua Quad Adventure",
+    "wilaya": "Tipaza",
+    "city": "Chenoua",
+    "rating": 4.6,
+    "reviews": 198,
+    "price": 7000,
+    "host": "Imene Quad Rental",
+    "cover": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516939884455-1445c8652f83?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Quad", "Trails", "Groups", "Adventure"],
+    "amenities": ["Helmet", "Guide", "Beginner route", "Photo stops"],
+    "description": "A quad rental profile for coastal trails, hill viewpoints, and guided adventure groups around Tipaza."
+  },
+  {
+    "id": "activity-el-tarf-ecurie",
+    "category": "activity",
+    "providerType": "Ecurie",
+    "name": "Ecurie des Dunes El Kala",
+    "wilaya": "El Tarf",
+    "city": "El Kala",
+    "rating": 4.8,
+    "reviews": 167,
+    "price": 5600,
+    "host": "Mehdi Ecurie",
+    "cover": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527153857715-3908f2bae5e8?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566251037378-5e04e3bec343?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Horse ride", "Nature", "Family", "Sunset"],
+    "amenities": ["Guide", "Beginner friendly", "Helmet", "Coastal route"],
+    "description": "An equestrian stable profile for beach rides, forest routes, family sessions, and calm sunset experiences."
+  },
+  {
+    "id": "activity-jijel-scuba-team",
+    "category": "activity",
+    "providerType": "Scuba team",
+    "name": "Jijel Scuba Discovery Team",
+    "wilaya": "Jijel",
+    "city": "Ziama Mansouriah",
+    "rating": 4.9,
+    "reviews": 228,
+    "price": 7800,
+    "host": "Sofia Scuba Team",
+    "cover": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1682687220063-4742bd7fd538?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Scuba", "Certified team", "Sea discovery", "Equipment"],
+    "amenities": ["Instructor", "Oxygen check", "Equipment", "Beginner briefing"],
+    "description": "A scuba team profile for supervised discovery dives, certification-friendly sessions, and safe underwater tourism."
+  },
+  {
+    "id": "activity-skikda-swim-team",
+    "category": "activity",
+    "providerType": "Swim team",
+    "name": "Skikda Open Water Swim Team",
+    "wilaya": "Skikda",
+    "city": "Stora",
+    "rating": 4.7,
+    "reviews": 143,
+    "price": 3200,
+    "host": "Walid Swim Team",
+    "cover": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519315901367-f34ff9154487?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Swimming", "Training", "Open water", "Family"],
+    "amenities": ["Coach", "Safety buoy", "Beginner lane", "Group class"],
+    "description": "A swim team profile for coastal swim lessons, open-water preparation, supervised groups, and family sessions."
+  },
+  {
+    "id": "activity-tipaza-tour-guide",
+    "category": "activity",
+    "providerType": "Tour guide",
+    "name": "Tipaza Heritage Walks",
+    "wilaya": "Tipaza",
+    "city": "Tipaza",
+    "rating": 4.8,
+    "reviews": 302,
+    "price": 2500,
+    "host": "Leila Coastal Guide",
+    "cover": "https://images.unsplash.com/photo-1530789253388-582c481c54b0?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Guide", "Culture", "Walking tour", "History"],
+    "amenities": ["Bilingual guide", "Route planning", "Photo stops", "Family friendly"],
+    "description": "A tour guide profile for heritage walks, coastal viewpoints, local stories, and cultural discovery."
+  },
+  {
+    "id": "activity-annaba-beach-club",
+    "category": "activity",
+    "providerType": "Beach club",
+    "name": "Ras El Hamra Beach Club",
+    "wilaya": "Annaba",
+    "city": "Ras El Hamra",
+    "rating": 4.5,
+    "reviews": 276,
+    "price": 4600,
+    "host": "Yanis Beach Club",
+    "cover": "https://images.unsplash.com/photo-1533760881669-80db4d7b7c15?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Beach club", "Day pass", "Relax", "Family"],
+    "amenities": ["Sunbeds", "Showers", "Snack bar", "Security"],
+    "description": "A beach club profile for day passes, family beach comfort, sunbeds, snacks, and relaxed coastal afternoons."
+  },
+  {
+    "id": "activity-bejaia-boat-tour",
+    "category": "activity",
+    "providerType": "Boat tour",
+    "name": "Bejaia Boat Tours",
+    "wilaya": "Bejaia",
+    "city": "Bejaia Marina",
+    "rating": 4.8,
+    "reviews": 358,
+    "price": 6200,
+    "host": "Amel Boat Tours",
+    "cover": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Boat tour", "Marina", "Sea caves", "Groups"],
+    "amenities": ["Captain", "Life jackets", "Music", "Private groups"],
+    "description": "A boat tour profile for marina departures, sea cave discovery, family groups, and sunset cruises."
+  },
+  {
+    "id": "activity-alger-transport",
+    "category": "activity",
+    "providerType": "Transport",
+    "name": "Coastal Shuttle Algiers",
+    "wilaya": "Alger",
+    "city": "Alger Centre",
+    "rating": 4.4,
+    "reviews": 191,
+    "price": 3000,
+    "host": "Hichem Coastal Transport",
+    "cover": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1526772662000-3f88f10405ff?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516939884455-1445c8652f83?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Transport", "Shuttle", "Airport", "Groups"],
+    "amenities": ["Driver", "Air conditioning", "Luggage", "Flexible pickup"],
+    "description": "A transport provider profile for airport pickup, coastal transfers, group shuttles, and day-trip logistics."
+  },
+  {
+    "id": "activity-mostaganem-photo",
+    "category": "activity",
+    "providerType": "Photographer",
+    "name": "Mostaganem Travel Photos",
+    "wilaya": "Mostaganem",
+    "city": "Salamandre",
+    "rating": 4.9,
+    "reviews": 119,
+    "price": 9000,
+    "host": "Maya Travel Photographer",
+    "cover": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Photography", "Couples", "Family", "Travel memories"],
+    "amenities": ["Edited photos", "Location scouting", "Sunset slot", "Digital gallery"],
+    "description": "A photographer profile for couples, families, and travelers who want polished coastal memories."
+  },
+  {
+    "id": "sleep-jijel-camping",
+    "category": "sleep",
+    "providerType": "Camping",
+    "name": "Jijel Cozy Camping",
+    "wilaya": "Jijel",
+    "city": "Aftis",
+    "rating": 4.6,
+    "reviews": 211,
+    "price": 4800,
+    "host": "Omar Camping Coast",
+    "cover": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=1400&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "tags": ["Camping", "Nature", "Tents", "Budget"],
+    "amenities": ["Tent rental", "Campfire zone", "Showers", "Guide"],
+    "description": "A camping provider profile for cozy nature stays, tents, campfire evenings, and affordable coastal sleep."
+  }
+]

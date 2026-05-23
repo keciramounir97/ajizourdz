@@ -1,0 +1,18 @@
+[
+  {
+    "id": "seed-booking-1",
+    "facilityId": "hotel-bejaia-azur",
+    "date": "2026-06-20",
+    "guests": 2,
+    "status": "confirmed",
+    "total": 37000
+  },
+  {
+    "id": "seed-booking-2",
+    "facilityId": "activity-bejaia-kayak",
+    "date": "2026-06-21",
+    "guests": 2,
+    "status": "pending",
+    "total": 8400
+  }
+]

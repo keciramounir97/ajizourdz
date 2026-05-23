@@ -1,0 +1,23 @@
+{
+  "super_admin": {
+    "grossBookings": "14.8M DZD",
+    "activeOffers": 214,
+    "requests": 73,
+    "users": 9210,
+    "moderation": 18
+  },
+  "admin": {
+    "grossBookings": "1.9M DZD",
+    "activeOffers": 38,
+    "requests": 17,
+    "users": 0,
+    "moderation": 3
+  },
+  "user": {
+    "grossBookings": "72K DZD",
+    "activeOffers": 0,
+    "requests": 2,
+    "users": 0,
+    "moderation": 0
+  }
+}
